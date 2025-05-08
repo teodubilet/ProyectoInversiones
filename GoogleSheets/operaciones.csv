@@ -1,0 +1,12 @@
+Fecha,Ticket,Tipo,Cantidad,Precio Unitario,Comisiones,Total operacion,Notas
+2024-03-01,GGAL,Compra,100,3300,200,330200,Inversión inicial GGAL
+2024-03-05,CEPU,Compra,150,1150,150,172650,Oportunidad energética
+2024-03-10,GGAL,Venta,50,3550,180,177480,Venta parcial con ganancia
+2024-03-15,YPF,Compra,80,6400,250,512250,Entrada fuerte YPF
+2024-03-22,CEPU,Venta,150,1080,160,162160,Se vendió con pérdida
+2024-03-25,ALUA,Compra,120,1600,120,192120,Compra ALUA
+2024-04-01,YPF,Venta,40,6700,200,267800,Parcial salida con ganancia
+2024-04-04,TGSU2,Compra,130,1900,130,247130,Entrada diversificada
+2024-04-12,GGAL,Compra,70,3400,180,238180,Reentrada en GGAL
+2024-04-20,ALUA,Venta,120,1580,140,189460,Cierre de posición con leve pérdida
+2024-04-25,GGAL,Venta,80,3450,190,275810,Salida con pérdida leve
